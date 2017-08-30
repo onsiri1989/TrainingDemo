@@ -6,6 +6,9 @@ class Hello {
         System.out.println("Hello! We are:");
         this.Krerk();
 		this.Sujinno();
+        this.Panjapoll();
+		this.Adichart();
+		this.Sittikorn();
     }
     
     private void Krerk() {
@@ -14,7 +17,19 @@ class Hello {
     }
 	
 	private void Sujinno() {
-        System.out.println("My name is Sujinno.K");
+		System.out.println("Trainee - Sujinno.K, SE");
+	}
+			
+    private void Panjapoll() {
+        System.out.println("Trainee - Panjapol Lomarat, SSE");
+    }
+	
+	private void Adichart() {
+		System.out.println("Trainee - Adichart Chanhomhaun, SE");
+	}
+	
+	private void Sittikorn() {
+        System.out.println("Trainer - Sittikorn Chuensukprasong, SE");
     }
     
     public static void main(String [] argv) {
