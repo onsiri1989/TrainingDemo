@@ -15,7 +15,7 @@ class Hello {
     }
     
     private void Onsiri() {
-        System.out.println("Trainer - Onsiri Homsup");
+        System.out.println("Trainer - Onsiri Homsup1");
         System.out.println("  Demo  - Onsiri Homsup2");
     }
 	
