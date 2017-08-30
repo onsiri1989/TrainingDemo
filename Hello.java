@@ -24,8 +24,7 @@ class Hello {
 	}
 	
 	private void Sittikorn() {
-        System.out.println("Trainer - Sittikorn Chuensukprasong, Software Engineer.");
-        System.out.println("  Demo  - Sittikorn Chuensukprasong, Software Engineer.");
+        System.out.println("Trainer - Sittikorn Chuensukprasong, SE");
     }
     
     public static void main(String [] argv) {
