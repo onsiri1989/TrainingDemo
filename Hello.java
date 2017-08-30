@@ -4,14 +4,14 @@ class Hello {
     
     public Hello() {
         System.out.println("Hello! We are:");
-<<<<<<< HEAD
+
         this.Onsiri();
-=======
+
         this.Krerk();
         this.Panjapoll();
 		this.Adichart();
 		this.Sittikorn();
->>>>>>> 17a3c08f4280d045c476b2d95e2a144d585a4abd
+
     }
     
     private void Onsiri() {
