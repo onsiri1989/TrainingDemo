@@ -4,12 +4,12 @@ class Hello {
     
     public Hello() {
         System.out.println("Hello! We are:");
-        this.Krerk();
+        this.Onsiri();
     }
     
-    private void Krerk() {
-        System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
-        System.out.println("  Demo  - Krerk Piromsopa, Ph.D.");
+    private void Onsiri() {
+        System.out.println("Trainer - Onsiri Homsup");
+        System.out.println("  Demo  - Onsiri Homsup");
     }
     
     public static void main(String [] argv) {
