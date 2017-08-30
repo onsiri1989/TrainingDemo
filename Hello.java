@@ -16,7 +16,7 @@ class Hello {
     private void Panjapoll() {
         System.out.println("Trainee - Panjapol Lomarat, SSE");
     }
-	 private void Krerk() {
+	private void Piyaporn() {
         System.out.println("Trainee - Piyaporn Eiamsakul, Miss");
     }
     
