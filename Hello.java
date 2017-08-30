@@ -8,6 +8,7 @@ class Hello {
         this.Onsiri();
 
         this.Krerk();
+		this.Sujinno();
         this.Panjapoll();
 		this.Adichart();
 		this.Sittikorn();
@@ -19,6 +20,10 @@ class Hello {
         System.out.println("  Demo  - Onsiri Homsup2");
     }
 	
+	private void Sujinno() {
+		System.out.println("Trainee - Sujinno.K, SE");
+	}
+			
     private void Panjapoll() {
         System.out.println("Trainee - Panjapol Lomarat, SSE");
     }
