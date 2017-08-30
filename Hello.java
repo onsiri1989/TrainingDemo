@@ -37,6 +37,7 @@ class Hello {
         System.out.println("Trainee - Panjapol Lomarat, SSE");
     }
 
+
 	private void Adichart() {
 		System.out.println("Trainee - Adichart Chanhomhaun, SE");
 	}
@@ -45,6 +46,9 @@ class Hello {
         System.out.println("Trainer - Sittikorn Chuensukprasong, SE");
 
 	 private void Krerk() {
+
+	private void Piyaporn() {
+
         System.out.println("Trainee - Piyaporn Eiamsakul, Miss");
 
     }
