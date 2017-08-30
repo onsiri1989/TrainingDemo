@@ -43,7 +43,7 @@ class Hello {
 	
 	private void Sittikorn() {
         System.out.println("Trainer - Sittikorn Chuensukprasong, SE");
-=======
+
 	 private void Krerk() {
         System.out.println("Trainee - Piyaporn Eiamsakul, Miss");
 
